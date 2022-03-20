@@ -1,6 +1,7 @@
 ﻿// Project.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-#include "..\glut\include\GL\freeglut.h"
+//#include "..\glut\include\GL\freeglut.h"
+#include "..\freeglut\include\GL\freeglut.h"
 #include <iostream>
 
 float Angle = 0;

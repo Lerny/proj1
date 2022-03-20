@@ -5,22 +5,22 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project", "Project\Project.vcxproj", "{4016171C-2539-4768-B073-E10816F9FC78}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freeglut", "freeglut\freeglut.vcxproj", "{7783C98C-4C90-372F-BE8C-B64ADB138A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{4016171C-2539-4768-B073-E10816F9FC78}.Debug|x64.ActiveCfg = Debug|x64
 		{4016171C-2539-4768-B073-E10816F9FC78}.Debug|x64.Build.0 = Debug|x64
-		{4016171C-2539-4768-B073-E10816F9FC78}.Debug|x86.ActiveCfg = Debug|Win32
-		{4016171C-2539-4768-B073-E10816F9FC78}.Debug|x86.Build.0 = Debug|Win32
 		{4016171C-2539-4768-B073-E10816F9FC78}.Release|x64.ActiveCfg = Release|x64
 		{4016171C-2539-4768-B073-E10816F9FC78}.Release|x64.Build.0 = Release|x64
-		{4016171C-2539-4768-B073-E10816F9FC78}.Release|x86.ActiveCfg = Release|Win32
-		{4016171C-2539-4768-B073-E10816F9FC78}.Release|x86.Build.0 = Release|Win32
+		{7783C98C-4C90-372F-BE8C-B64ADB138A8B}.Debug|x64.ActiveCfg = Debug|x64
+		{7783C98C-4C90-372F-BE8C-B64ADB138A8B}.Debug|x64.Build.0 = Debug|x64
+		{7783C98C-4C90-372F-BE8C-B64ADB138A8B}.Release|x64.ActiveCfg = Release|x64
+		{7783C98C-4C90-372F-BE8C-B64ADB138A8B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
